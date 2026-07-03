@@ -3,7 +3,7 @@
 
 vless://00000000-0000-0000-0000-000000000000@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 
-vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная (➕TikTok)
+vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная
 
 vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺Youtube only
 
@@ -13,7 +13,7 @@ vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encr
 
 vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encryption=none&security=reality&pbk=J0WyxYngNiKUIii0ah3VuX5n8FItCp9-gu_FaIfppxE&fp=edge&sni=www.apple.com&sid=64&spx=/&path=/&mode=auto&host=#Apple🍎
 
-vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=ws&encryption=none&security=tls&sni=185-109-21-120.sslip.io&alpn=http/1.1&fp=edge&path=/185-109-21-120-sslip-io-ws#🇫🇮Uranus🛠️
+vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=ws&encryption=none&security=tls&sni=185-109-21-120.sslip.io&alpn=http/1.1&fp=edge&path=/185-109-21-120-sslip-io-ws#🇫🇮Uranus (TikTok)🛠️
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria test
 

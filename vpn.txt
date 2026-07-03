@@ -11,4 +11,4 @@ vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=
 
 vless://18b08412-df98-4f71-a8df-944c48e35c90@45.133.234.61:443?type=tcp&encryption=none&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&fp=edge&sni=www.microsoft.com&sid=628da9aed237&spx=/&flow=xtls-rprx-vision#🇰🇿Magnus
 
-vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺 Россия (Youtube без рекламы)
+vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺(Youtube only)

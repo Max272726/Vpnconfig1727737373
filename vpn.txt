@@ -3,6 +3,8 @@
 
 vless://uuid@server:port?security=reality#не забывайте обновлять подписку
 
+vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная (+TikTok)
+
 vless://7f4bd5ae-e774-443b-bc60-616109f843f0@5.180.172.173:52?type=tcp&encryption=none&security=none#🇫🇮Финляндия • Игровой🕹
 
 vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#🇰🇵Mercury • белые списки🏳

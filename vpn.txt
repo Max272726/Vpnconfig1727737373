@@ -16,3 +16,5 @@ vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encr
 vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=ws&encryption=none&security=tls&sni=185-109-21-120.sslip.io&alpn=http/1.1&fp=edge&path=/185-109-21-120-sslip-io-ws#🇫🇮Uranus🛠️
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria test🛠️
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#Shadowsocks test

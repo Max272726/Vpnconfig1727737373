@@ -1,4 +1,4 @@
-# profile-title: Vpn🍁 • @all_02
+# profile-title: Vpn🍁 • @Call_02
 # last-update: 03.07.26
 
 vless://7f4bd5ae-e774-443b-bc60-616109f843f0@5.180.172.173:52?type=tcp&encryption=none&security=none#🇫🇮Финляндия • Игровой🕹

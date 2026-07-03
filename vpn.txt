@@ -3,7 +3,7 @@
 
 vless://00000000-0000-0000-0000-000000000000@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 
-vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная (+TikTok)
+vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная (➕TikTok)
 
 vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺(Youtube only)
 

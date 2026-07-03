@@ -1,6 +1,9 @@
 # profile-title: Svin Vpn🐖 • @Call_02
 # last-update: 03.07.26
 #no-limit-xhttp-enabled: 1
+#sub-expire: 1
+#sub-expire-button-link: https://t.me/Call_02
+#sub-info coch
 
 vless://00000000-0000-0000-0000-000000000000@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 

@@ -1,7 +1,7 @@
 # profile-title: Svin Vpn🐖 • @Call_02
 # last-update: 03.07.26
 
-vless://uuid@server:port?security=reality#не забывайте обновлять подписку
+vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 
 vless://412eeefa-4fbb-43c2-8a15-193ad334b90f@151.247.209.166.sslip.io:41535?type=ws&encryption=none&security=tls&sni=151.247.209.166.sslip.io&alpn=http/1.1&fp=edge&path=/151-247-209-166-sslip-io-ws#🇩🇪Универсальная (+TikTok)
 

@@ -3,12 +3,12 @@
 #no-limit-enabled: 1
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
-#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1790951622
+#subscription-userinfo: upload=0; download=2153701362; total=0
 #support-url: https://t.me/call_02
 #profile-web-page-url: https://www.speedtest.net/ru
 #profile-update-interval: 4
 #hide-settings: 1
-#announce: coch
+#announce: by: @Call_02
 
 vless://00000000-0000-0000-0000-000000000000@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 

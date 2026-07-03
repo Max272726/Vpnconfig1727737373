@@ -4,6 +4,7 @@
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
 #sub-info coch
+#support-url: https://t.me/call_02
 
 vless://00000000-0000-0000-0000-000000000000@255.255.255.255:1488?security=ws#не забывайте обновлять подписку
 

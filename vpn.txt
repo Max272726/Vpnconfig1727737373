@@ -1,12 +1,14 @@
 #profile-title: Svin Vpn🐖
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
-#subscription-userinfo: upload=0; download=2153701362; total=0;
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1784494800
 #support-url: https://t.me/call_02
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 4
 #hide-settings: 1
-#announce: by: @Call_02
+#announce: 
+Это 🍃VPN🍃 + 🏳️Обход белых списков🏳️
+Продлить подписку можно в @ _bot
 
 vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=ws&encryption=none&security=tls&sni=185-109-21-120.sslip.io&alpn=http/1.1&fp=edge&path=/185-109-21-120-sslip-io-ws#🇫🇮Универсальная (➕TikTok)🛠️
 

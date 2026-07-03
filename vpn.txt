@@ -1,9 +1,8 @@
 #profile-title: Svin Vpn🐖
 #last-update: 03.07.26
-#no-limit-enabled: 1
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
-#subscription-userinfo: upload=0; download=2153701362; total=0
+#subscription-userinfo: upload=0; download=2153701362; total=0; expired=16092000
 #support-url: https://t.me/call_02
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 4

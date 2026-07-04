@@ -19,3 +19,5 @@ vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=
 vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encryption=none&security=reality&pbk=diRa7LNyfoUSSUuYBNwylnKCVbRc2VAmkaoqd_CvlUo&fp=edge&sni=www.google.com&sid=9105&mode=gun#🇪🇪Oxygen DC gPRC
 
 vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#🇸🇪Mercury • белые списки🏳
+
+hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria

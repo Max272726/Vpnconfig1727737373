@@ -16,7 +16,7 @@ vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encrypt
 
 vless://7f4bd5ae-e774-443b-bc60-616109f843f0@5.180.172.173:52?type=tcp&encryption=none&security=none#🇫🇮Финляндия • Игровой🕹
 
-vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#title?serverDescription=Использовать только при белых списках==🇸🇪Mercury • белые списки🏳
+vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#🇸🇪Mercury • белые списки🏳
 
 vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encryption=none&security=reality&pbk=diRa7LNyfoUSSUuYBNwylnKCVbRc2VAmkaoqd_CvlUo&fp=edge&sni=www.google.com&sid=9105&mode=gun#🇪🇪Oxygen DC gPRC
 

@@ -7,8 +7,7 @@
 #profile-update-interval: 4
 #hide-settings: 1
 #announce: 
-Это 🍃VPN🍃 + 🏳️Обход белых списков🏳️
-Продлить подписку можно в @ _bot
+Это 🍃VPN🍃 + 🏳️Обход белых списков🏳️ Продлить подписку можно в @SvinVpn_robot
 
 vless://d1760846-abfb-4c01-a4d5-503113e9ceb8@185-109-21-120.sslip.io:42872?type=ws&encryption=none&security=tls&sni=185-109-21-120.sslip.io&alpn=http/1.1&fp=edge&path=/185-109-21-120-sslip-io-ws#🇫🇮Универсальная (➕TikTok)🛠️
 

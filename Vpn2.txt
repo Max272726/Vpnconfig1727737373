@@ -1,1 +1,15 @@
+#profile-title: Svin Vpn🐖 • Whitelists🏳️ test
+#sub-expire: 1
+#sub-expire-button-link: https://t.me/Call_02
+#subscription-userinfo: upload=0; download=0; total=0; expire=1784449800
+#support-url: https://t.me/call_02
+#profile-web-page-url: https://www.speedtest.net
+#profile-update-interval: 1
+#announce: Это 🏳️Обход белых списков🏳️ • By: @call_02
+
+vless://529024b7-76eb-461b-bc54-48feb1020ab5@150-241-74-19.sslip.io:8443?type=tcp&encryption=none&security=reality&pbk=7nYUYinJR_Ir4c-pGcoX5EUNAAO4j-6ci6Rlan0zRiU&fp=edge&sni=rutube.ru&sid=6e8db489dd1134d7&spx=/&flow=xtls-rprx-vision#🇰🇵Белые списки #1🏳️ • RuTube
+
+vless://4370342b-fc95-4928-a307-ea05d2c3ee4d@medik.blogmedoc.ru:443?type=tcp&encryption=none&security=reality&pbk=azo7EwEU7IcSr7ebEsZ5f8lWklBUbhccY7xqM5Q_YQI&fp=edge&sni=www.yandex.ru&sid=1db20734bbd1d62c&spx=/&flow=xtls-rprx-vision#🇰🇵Белые списки #2🏳️ • Ozon🛠️
+
+trojan://a21e8d19-889c-4d71-a84a-321bce6ee84b@roskomnadzor.x-narod.ru:43421?security=tls&type=ws&sni=roskomnadzor.x-narod.ru&alpn=http/1.1&fp=edge&path=/roskomnadzor-x-narod-ru-ws#🇰🇵Белые списки #3🏳️ • РКН fake tls
 

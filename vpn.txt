@@ -22,8 +22,8 @@ vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encry
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria🍁
 
-vless://529024b7-76eb-461b-bc54-48feb1020ab5@150-241-74-19.sslip.io:8443?type=tcp&encryption=none&security=reality&pbk=7nYUYinJR_Ir4c-pGcoX5EUNAAO4j-6ci6Rlan0zRiU&fp=edge&sni=rutube.ru&sid=6e8db489dd1134d7&spx=/&flow=xtls-rprx-vision#🏳️Белые списки #1 • RuTube
+vless://529024b7-76eb-461b-bc54-48feb1020ab5@150-241-74-19.sslip.io:8443?type=tcp&encryption=none&security=reality&pbk=7nYUYinJR_Ir4c-pGcoX5EUNAAO4j-6ci6Rlan0zRiU&fp=edge&sni=rutube.ru&sid=6e8db489dd1134d7&spx=/&flow=xtls-rprx-vision#🇰🇵Белые списки #1🏳️ • RuTube
 
-vless://4370342b-fc95-4928-a307-ea05d2c3ee4d@medik.blogmedoc.ru:443?type=tcp&encryption=none&security=reality&pbk=azo7EwEU7IcSr7ebEsZ5f8lWklBUbhccY7xqM5Q_YQI&fp=edge&sni=www.yandex.ru&sid=1db20734bbd1d62c&spx=/&flow=xtls-rprx-vision#🏳️Белые списки #2 • Ozon
+vless://4370342b-fc95-4928-a307-ea05d2c3ee4d@medik.blogmedoc.ru:443?type=tcp&encryption=none&security=reality&pbk=azo7EwEU7IcSr7ebEsZ5f8lWklBUbhccY7xqM5Q_YQI&fp=edge&sni=www.yandex.ru&sid=1db20734bbd1d62c&spx=/&flow=xtls-rprx-vision#🇰🇵Белые списки #2🏳️ • Ozon🛠️
 
-trojan://a21e8d19-889c-4d71-a84a-321bce6ee84b@roskomnadzor.x-narod.ru:43421?security=tls&type=ws&sni=roskomnadzor.x-narod.ru&alpn=http/1.1&fp=edge&path=/roskomnadzor-x-narod-ru-ws#🏳️Белые списки #3 • РКН fake tls
+trojan://a21e8d19-889c-4d71-a84a-321bce6ee84b@roskomnadzor.x-narod.ru:43421?security=tls&type=ws&sni=roskomnadzor.x-narod.ru&alpn=http/1.1&fp=edge&path=/roskomnadzor-x-narod-ru-ws#🇰🇵Белые списки #3🏳️ • РКН fake tls

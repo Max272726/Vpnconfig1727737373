@@ -6,7 +6,7 @@
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 1
 #announce: 
-Это 🍃VPN🍃, 🏳️Обход белых списков🏳️> traff.co/7QpbKSo1 • By: @call_02
+Это 🍃VPN🍃 • By: @call_02
 
 vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швейцария • универсальный🚀
 

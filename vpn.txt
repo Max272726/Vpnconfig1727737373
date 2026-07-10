@@ -6,7 +6,7 @@
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 1
 #announce: 
-Это 🍃VPN🍃 + 🏳️Белые списки🏳️ • By: @call_02
+Это 🍃VPN🍃 + Белые списки • By: @call_02
 
 vless://3973078f-1d4f-42c8-bd44-3dea46d351cb@80.66.65.89:43000?type=tcp&security=reality&pbk=_MD-9gEIDoKglKRLVwX-_y9cmDZjQp2EHNuHVQrslW4&fp=chrome&sid=0d5fcce1&spx=%2F&flow=xtls-rprx-vision#🇪🇺Автовыбор 
 
@@ -21,7 +21,6 @@ vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encr
 vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encryption=none&security=reality&pbk=diRa7LNyfoUSSUuYBNwylnKCVbRc2VAmkaoqd_CvlUo&fp=edge&sni=www.google.com&sid=9105&mode=gun#🇪🇪Oxygen DC gPRC
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria🍁
-
 
 vless://9761d3ed-c093-49e1-a423-7f2d850b7f8d@176.108.245.184:25565?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gp.x5.ru&fp=chrome&pbk=4i3aVyDqVM-6wbiUQnfaXfBwQkNXxQp5YQZ4SRVbL2I#🇪🇺LTE #1 | Все операторы 
 

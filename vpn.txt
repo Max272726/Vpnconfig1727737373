@@ -14,7 +14,9 @@ vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encr
 
 vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швейцария • универсальный🚀
 
-vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺Россия • Ютуб без рекламы🚀
+vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺Россия • Ютуб без рекламы⭐
+
+vless://7a3e2075-a46c-4e2e-9e24-0384e9d27a6c@138-124-86-230.sslip.io:443?type=xhttp&encryption=none&security=reality&pbk=gAXfDCBG2laN48UtNqsrcl8qqYqJlCkEihLY0TPogGs&fp=edge&sni=www.nvidia.com&sid=2455f3294e7d3b60&spx=/&path=/&mode=auto&host=#🇸🇪Hikari DC
 
 vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encryption=none&security=reality&pbk=J0WyxYngNiKUIii0ah3VuX5n8FItCp9-gu_FaIfppxE&fp=edge&sni=www.apple.com&sid=64&spx=/&path=/&mode=auto&host=#🇫🇮Финляндия • Игровой🕹
 

@@ -1,24 +1,22 @@
 #profile-title: Svin Vpn🐖
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
-#subscription-userinfo: upload=0; download=0; total=0; expire=1784449800
+#subscription-userinfo: upload=0; download=0; total=0; expire=1787173200
 #support-url: https://t.me/call_02
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 1
 #announce: 
 Это 🍃VPN🍃 + Белые списки • By: @call_02
 
-vless://3973078f-1d4f-42c8-bd44-3dea46d351cb@80.66.65.89:43000?type=tcp&security=reality&pbk=_MD-9gEIDoKglKRLVwX-_y9cmDZjQp2EHNuHVQrslW4&fp=chrome&sid=0d5fcce1&spx=%2F&flow=xtls-rprx-vision#🇪🇺Автовыбор 
-
-vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швейцария • универсальный🚀
+vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encryption=none&security=reality&pbk=diRa7LNyfoUSSUuYBNwylnKCVbRc2VAmkaoqd_CvlUo&fp=edge&sni=www.google.com&sid=9105&mode=gun#🇪🇪Oxygen DC🚀
 
 vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#🇸🇪Mercury DC🚀
+
+vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швейцария • универсальный🚀
 
 vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺Россия • Ютуб без рекламы🚀
 
 vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encryption=none&security=reality&pbk=J0WyxYngNiKUIii0ah3VuX5n8FItCp9-gu_FaIfppxE&fp=edge&sni=www.apple.com&sid=64&spx=/&path=/&mode=auto&host=#🇫🇮Финляндия • Игровой🕹
-
-vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encryption=none&security=reality&pbk=diRa7LNyfoUSSUuYBNwylnKCVbRc2VAmkaoqd_CvlUo&fp=edge&sni=www.google.com&sid=9105&mode=gun#🇪🇪Oxygen DC gPRC
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria🍁
 

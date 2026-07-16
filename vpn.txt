@@ -12,7 +12,7 @@ vless://7ecb0769-1adb-4522-96f7-17057b2f0076@185.88.37.251:27898?type=grpc&encry
 
 vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encryption=none&security=reality&pbk=aTa4VT3ww8LfRK9JktX0aaR7tCvtF6m1M9F0bs9gv1U&fp=edge&sni=www.ozon.ru&sid=b48ff512263d65f1&spx=/#🇸🇪Mercury DC🚀
 
-vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швейцария • универсальный🚀
+vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Швеция • универсальный🚀
 
 vless://9147c40c-4257-4a3d-bab8-d41ba1828e2e@ozon.alcrb.ru:34796?type=ws&encryption=none&security=tls&sni=ozon.alcrb.ru&alpn=http/1.1&fp=edge&path=/ozon-alcrb-ru-ws#🇷🇺Россия • Ютуб без рекламы⭐
 
@@ -21,6 +21,8 @@ vless://7a3e2075-a46c-4e2e-9e24-0384e9d27a6c@138-124-86-230.sslip.io:443?type=xh
 vless://9d460d8e-9e94-4be5-83b7-9eca67be0a4d@5.180.172.173:37304?type=xhttp&encryption=none&security=reality&pbk=J0WyxYngNiKUIii0ah3VuX5n8FItCp9-gu_FaIfppxE&fp=edge&sni=www.apple.com&sid=64&spx=/&path=/&mode=auto&host=#🇫🇮Финляндия • Игровой🕹
 
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?security=tls&insecure=1&sni=srvhy1.ezcon24.online#Hysteria🍁
+
+hysteria2://pROa6nqmvWicVWOWvwHj5swG7sPppZ_lBCwsW0txFEs@151.243.190.52.sslip.io:443/?obfs=salamander&obfs-password=254a91440ca2f456bc0f0b24ca6ea86456ce34c5f3c22045&sni=151.243.190.52.sslip.io#Hysteria🍁
 
 vless://9761d3ed-c093-49e1-a423-7f2d850b7f8d@176.108.245.184:25565?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gp.x5.ru&fp=chrome&pbk=4i3aVyDqVM-6wbiUQnfaXfBwQkNXxQp5YQZ4SRVbL2I#🇪🇺LTE #1 | Все операторы 
 

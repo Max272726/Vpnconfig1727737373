@@ -18,6 +18,8 @@ vless://f4e9ba4b-d450-4f5e-8771-a82d726f658c@minzdrav.alcrb.ru:443?type=tcp&encr
 
 vless://dc727fe8-1a95-4b38-bf8a-e12ac90ca6bf@194-39-110-183.sslip.io:28457?type=ws&encryption=none&security=tls&sni=194-39-110-183.sslip.io&alpn=http/1.1&fp=edge&path=/194-39-110-183-sslip-io-ws#🇸🇪Hiplet DC • универсальный
 
+vless://e8282ec9-1a86-4d37-8b01-705026badcd5@150-241-102-49.sslip.io:8443?type=grpc&encryption=none&security=tls&sni=150-241-102-49.sslip.io&alpn=h2,http/1.1&fp=edge&serviceName=150-241-102-49-sslip-io&mode=gun&authority=150-241-102-49.sslip.io#🇺🇸TikTok slow udp
+
 vless://34dc2f27-bc5f-44eb-9c07-6e3f9be95497@155-212-137-130.sslip.io:38443?type=ws&encryption=none&security=tls&sni=155-212-137-130.sslip.io&alpn=http/1.1&fp=edge&path=/155-212-137-130-sslip-io-ws#🇷🇺Bevora DC • Ютуб без рекламы⭐
 
 vless://b6749577-0f03-4390-b8ba-5240c1c37250@beeline.v6.army:40974?type=ws&encryption=none&security=tls&sni=beeline.v6.army&alpn=http/1.1&fp=edge&path=/beeline-v6-army-ws#🇺🇸RYZEN DC🚀

@@ -2,7 +2,6 @@
 #sub-expire: 1
 #sub-expire-button-link: https://t.me/Call_02
 #support-url: https://t.me/call_02
-#profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 1
 #announce: 
 Это 🍃VPN🍃 + Белые списки • By: @call_02

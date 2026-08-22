@@ -6,11 +6,8 @@
 #announce: 
 Это 🍃VPN🍃 + Белые списки • By: @call_02
 
-vless://accba1e2-764b-401e-98e9-06600f02f038@minzdrav.alcrb.ru:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=www.oracle.com&pbk=DtptV97EJRCDSSzz9NqtnRGoOF2BXtyhahMmizDrpkI&sid=4d8554abd9e7f78b&spx=%2F#🇸🇪Mercury DC
+vless://accba1e2-764b-401e-98e9-06600f02f038@minzdrav.alcrb.ru:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=www.oracle.com&pbk=DtptV97EJRCDSSzz9NqtnRGoOF2BXtyhahMmizDrpkI&sid=4d8554abd9e7f78b&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA+Mercury
 
-vless://948eb540-ef2e-46da-a952-21603ac69da1@roskomnadzor.x-narod.ru:8443?flow=xtls-rprx-vision&type=xhttp&security=reality&fp=edge&sni=www.google.com&pbk=k4Af7BlqBurp4MaoSIzbOkXFX7ERsDfO94nhIPB6zB4&sid=22f826e6d11424d3&spx=%2F&path=%2F&mode=auto#🇳🇱
-
-vless://f63f1594-930e-45da-9c9d-7f64a28859a2@31-76-60-45.sslip.io:443?flow=xtls-rprx-vision&type=xhttp&security=reality&fp=edge&sni=www.hp.com&pbk=q2sQZ5bHWA-9CWuWc05VFlWFsmLLt9bPPJswfjwDTGU&sid=379e23bbf5825866&spx=%2F&path=%2F&mode=auto#🇬🇧Serviler
 
 vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@reserve01.proxen.pdevinfra.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=syfh82ds.proxen.pdevinfra.com&fp=firefox&pbk=fi-wyjU9sh4N0zQvV4-HfqWGD6r5-7VxgfO8dMK6jgA#%F0%9F%87%AA%F0%9F%87%BA%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
 

@@ -6,4 +6,4 @@
 #announce: 
 Это 🍃VPN🍃 + Белые списки • By: @call_02
 
-vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oasy91.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oasy91.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#1
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oasy91.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oasy91.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#1

@@ -6,4 +6,10 @@
 #announce: 
 Это 🍃VPN🍃 + Белые списки • By: @call_02
 
-vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oasy91.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oasy91.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#1
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oasy91.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oasy91.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oa71bs.proxen.pdevinfra.com:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lkjdc9.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@jdt53h.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=jdt53h.proxen.pdevinfra.com&fp=firefox&pbk=rcoFSwpnVX4U5wclRE3zRsPXIeQNt2c7y2MmiaMfRyY#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@jdus72.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=jdus72.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@oanql1.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=oanql1.proxen.pdevinfra.com&fp=qq&pbk=kKdB4AOXQPBvQHr5UhBIk6_jnx6D9IE4nHrfjf6xzDU#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
+vless://d72a2fec-ce60-4129-97d9-df308a9d93a6@is82n9.proxen.pdevinfra.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de01.wl.proxen.pdevinfra.com&fp=firefox&pbk=6-QnQqzn0FjER3UROcKrYSOhjSAlVajaMjzgfnP-ohU&sid=bd607aea55fd37a2#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%F0%9F%93%84
+

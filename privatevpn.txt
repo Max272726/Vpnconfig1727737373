@@ -6,7 +6,7 @@
 #profile-web-page-url: https://www.speedtest.net
 #profile-update-interval: 1
 #announce: 
-Это 🍃VPN🍃 + Белые списки • By: @call_02
+Это 🍃VPN🍃 • By: @call_02
 
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@201.24.53.12:443?type=tcp&security=reality&pbk=vyUN5QR4PZCSi4_Del_kiAwNyckqDsrwcfPaHS5mmgs&fp=firefox&sni=timeweb.cloud&sid=6c7d8e9f&spx=%2F&flow=xtls-rprx-vision#proxy-1
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@201.24.53.113:443?type=tcp&security=reality&pbk=vyUN5QR4PZCSi4_Del_kiAwNyckqDsrwcfPaHS5mmgs&fp=firefox&sni=avito.ru&sid=6c7d8e9f&spx=%2F&flow=xtls-rprx-vision#proxy-2

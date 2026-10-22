@@ -11,7 +11,6 @@
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@twfi1.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=twfi1.antiviruses.cc&fp=firefox&pbk=1RaHXXy2KYyiFT2_0YuEbWTqP8K4uERfW0A5Wcc6c3U&sid=cb01d0bd25776e52&type=tcp#FIN-1
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@twfi2.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=twfi2.antiviruses.cc&fp=firefox&pbk=KSJtnTYEIBH8WBglRFQ6muT51LZEIbAqg25VddwaQVY&sid=265237ec36803f1c&type=tcp#FIN-2
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@pkg-58.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pkg-58.antiviruses.cc&fp=firefox&pbk=qGAuDt34U5R5FYW8Kd_wWUrbP5FwVa2Oh_BpP35zcFs&sid=869715e100a39f82&type=tcp#FIN-3
-
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@201.24.118.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=timeweb.cloud&fp=firefox&pbk=vyUN5QR4PZCSi4_Del_kiAwNyckqDsrwcfPaHS5mmgs&sid=6c7d8e9f&type=tcp#proxy
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@201.24.53.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=avito.ru&fp=firefox&pbk=vyUN5QR4PZCSi4_Del_kiAwNyckqDsrwcfPaHS5mmgs&sid=6c7d8e9f&type=tcp#proxy-2
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@201.24.53.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=avito.ru&fp=firefox&pbk=vyUN5QR4PZCSi4_Del_kiAwNyckqDsrwcfPaHS5mmgs&sid=6c7d8e9f&type=tcp#proxy-3
@@ -37,4 +36,3 @@ vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@db-15.antiviruses.cc:443?encryption
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@cache-72.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cache-72.antiviruses.cc&fp=firefox&pbk=k3RzLbHOYXW3U53q9k23WbCkg6u1euC6uiNOQxPbCgA&sid=e2f6743020a1b2c2&spx=%2F&type=tcp#proxy-23
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@update-85.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=update-85.antiviruses.cc&fp=firefox&pbk=hcVbAvrsCNrvEcojkdiix2zyOzadDkdqHRmGKaKCfCI&sid=d0a59a9ea9f553f2&spx=%2F&type=tcp#proxy-24
 vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@db-42.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=db-42.antiviruses.cc&fp=firefox&pbk=UULeStMCssxmhoqJeZpMXfFIjhsOcFqPY4LNf3hoEXw&sid=b62c03076554eff9&spx=%2F&type=tcp#proxy-25
-vless://4a94fcd9-479f-43f5-ade3-3730ad1423e4@cdn-13.antiviruses.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-13.antiviruses.cc&fp=firefox&pbk=...
